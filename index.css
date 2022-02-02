@@ -1,0 +1,8 @@
+.header {
+    background-color: azure;
+    width: 100%;
+}
+.hamburger-container .img {
+    width: 2rem;
+    height: 2rem;
+}
