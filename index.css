@@ -6,3 +6,13 @@
     width: 2rem;
     height: 2rem;
 }
+.header-section {
+    display: grid;
+    grid-gap: 3rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+.section-one {
+    display: grid;
+    grid-gap: 3rem;
+    grid-template-columns: repeat(7, 1fr);
+}
